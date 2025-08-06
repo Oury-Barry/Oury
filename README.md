@@ -2,7 +2,11 @@
 
 <div align="justify"> I am a Sustainable Mining MSc graduate from TU Bergakademie Freiberg. My research focuses on LIBS for real-time aluminium alloy sorting to support circular-economy goals. Covering every step of the workflow from planning experiments and pre-processing high-dimensioanal LIBS spectra (>40 0000 invdividual specral lines) to model development and validation to accuraly quantify key elements like Cu, Mn, Mg, Si, and Zn in aluminium alloys. I am passionate about applying data-driven approaches to sustainable resource management.</div><br></br>
 
-Skills: Python/LIBS Analysis/Spectral Pre-processing and Modeling/SQL/ Excel/ Tableau/ Power Bi/ MLA DataView
+## Skills
+💻Python/SQL/Excel/Tableau/Power Bi/MLA Dataview<br></br>
+💻LIBS Spectral Pre-processoing and Modeling<br></br>
+🛰QGIS(basic Knowledge)
+
 
 
 
