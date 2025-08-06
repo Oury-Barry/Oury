@@ -9,8 +9,8 @@
 
 <h2>👨‍💻 LIBS Development Projects</h2>
 -  <b>Environment Setup</b>
-- [https://github.com/Oury-Barry/Oury/blob/main/Environment%20Setup.ipynb <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+    - [https://github.com/Oury-Barry/Oury/blob/main/Environment%20Setup.ipynb <b><i>(Potentially NSFW)</b></i>
+
 
 
 
