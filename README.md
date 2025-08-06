@@ -7,7 +7,8 @@
 💻LIBS Spectral Pre-processoing and Modeling<br></br>
 🛰QGIS(basic Knowledge)
 
-<h2>👨‍💻 LIBS Development Projects:</h2>
+<h2>👨‍💻 LIBS Development Projects</h2>
+-  <b>Environment Setup</b>
 
 
 
