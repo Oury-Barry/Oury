@@ -54,11 +54,13 @@
       
         <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93f49d2e-888a-4e87-a9a3-1496d75e3d9c" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2bb6103f-ec50-49eb-ae4b-8867fd64bf45" />
 
-- **🔗 Correlation Analysis**
-    									
+- **🔗 Correlation Analysis**  									
+
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2fa17b99-eab3-4c3d-b830-a17109e70a1e" />
 
-
+- **⛰️ Peak Intensity Extraction**
+  
+    - [Peak Intensity Extraction Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/12_Peak_Intensity_Extraction_for_Multiple_Elements.ipynb) 
  
  
 
