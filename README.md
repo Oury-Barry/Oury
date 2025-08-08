@@ -75,7 +75,7 @@
     - [LOOCV for LASSO](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/17_LOOCV_LASSO.ipynb)
     - [LOOCV for Elasticnet Regression](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/18_LOOCV_Elasticnet_Model.ipynb)
  
-- ** 🔍🧪 Application of the trained PLSR Model+SNV to End-of-life aluminium scrap (BMW)
+- **🔍🧪 Application of the trained PLSR Model+SNV to End-of-life aluminium scrap (BMW)**
     - [Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/20_Predicting_Scrap_Alloys_PLSR_Spectral_Data.ipynb)
       
       <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/84f49018-a396-44c6-b73f-cfebb2c88bf0" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9b2cd76c-76ba-46fa-a3cc-b5a18dd1261f" />
