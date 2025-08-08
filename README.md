@@ -6,6 +6,7 @@
 💻Python/SQL/Excel/Tableau/Power Bi/MLA Dataview<br></br>
 💻LIBS Spectral Pre-processoing and Modeling<br></br>
 🛰QGIS(basic Knowledge)
+
 🌳Environmental Impact Assessment
 
 ## 👨‍💻 LIBS Development Project</h2>
@@ -37,7 +38,24 @@
 
 - **📏 Normalisation Methods:**
     - Standard Normal Variate Normalisation (SNV)
-        - [SNV Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/06_Standard_Normal_Variate%20.ipynb) 
+        - [SNV Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/06_Standard_Normal_Variate%20.ipynb)
+     
+    - Multiplicative Scatter Correction (MSC)
+        - [MSC Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/07_Multiplicative_Scatter_Correction.ipynb)
+
+    - Total Sum Normalisation (TSN)
+        - [TSN Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/08_Total_Sum_Normalisation%20.ipynb)
+
+- **🔢 Averaging Methods**
+    - [Avg Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/09_Compute_Average_Spectrum_for_Each_Sample%20(by%20Sample%20ID).ipynb) 
+
+- **🎯 Region of Interest (ROI)**
+    - [ROI Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/10_Region_of_Interest_(ROI).ipynb)
+      
+        <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93f49d2e-888a-4e87-a9a3-1496d75e3d9c" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2bb6103f-ec50-49eb-ae4b-8867fd64bf45" />
+
+ 
+ 
 
 
 
