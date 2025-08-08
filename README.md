@@ -10,7 +10,15 @@
 ## 👨‍💻 LIBS Development Project</h2>
 - **Project Overview:**
     - [Project Walk-through](https://github.com/Oury-Barry/Developing-LIBS-)
- 
+
+- **🔧 Environment Setup**
+
+- Python version: 3.13
+    - Required packages: See [requirements.txt](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/01_Environment_Setup.ipynb)
+    - Installation:
+      ```bash
+      pip install -r requirements.txt
+
 
 
 
