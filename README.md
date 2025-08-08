@@ -23,10 +23,15 @@
 - **📁 Data Loading and Organisation:**
     - [Loads and Organises raw LIBS spectral data](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/02_Data_Loading.ipynb)
 
-- **💡 Raw Spectra Plotting:**
-    - [Visualises raw LIBS Spectral data](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/03_Raw_Spectra_Plotting%20.ipynb)
+    - **💡 Raw Spectra Plotting:**
+        - [Visualises raw LIBS Spectral data](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/03_Raw_Spectra_Plotting%20.ipynb)
       
       <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5847b3ef-b6c8-4b7c-9cfa-0cf4ca54835d" />
+
+- **🧹 Baseline Correction:**
+    - [Baseline_Correction_Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/04_Baseline_Correction.ipynb)
+ 
+      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/53454e98-ed86-4527-a364-e9861a3c0b3a" />
 
 
 
