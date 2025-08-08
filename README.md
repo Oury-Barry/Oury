@@ -6,6 +6,7 @@
 💻Python/SQL/Excel/Tableau/Power Bi/MLA Dataview<br></br>
 💻LIBS Spectral Pre-processoing and Modeling<br></br>
 🛰QGIS(basic Knowledge)
+🌳Environmental Impact Assessment
 
 ## 👨‍💻 LIBS Development Project</h2>
 - **Project Overview:**
