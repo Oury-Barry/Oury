@@ -12,7 +12,7 @@
 - **Project Overview:**
     - [Project Walk-through](https://github.com/Oury-Barry/Developing-LIBS-)
 
-## 🔧 Data Preprocessing
+## 🔧 Data Pre-processing
 - **🔧 Environment Setup**
 
     - Python version: 3.13
@@ -35,7 +35,9 @@
         - [Baseline Corrected Plots Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/05_Interactive_Baseline_Correction%20Plot.ipynb)
       <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/53454e98-ed86-4527-a364-e9861a3c0b3a" />
 
-
+- **📏 Normalisation Methods:**
+    - Standard Normal Variate Normalisation (SNV)
+        - [SNV Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/06_Standard_Normal_Variate%20.ipynb) 
 
 
 
