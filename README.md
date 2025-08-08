@@ -21,7 +21,6 @@
       pip install -r requirements.txt
 
 - **📁 Data Loading and Organisation:**
-  
     - [Loads and Organises raw LIBS spectral data](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/02_Data_Loading.ipynb)
 
 
