@@ -62,7 +62,10 @@
   
     - [Peak Intensity Extraction Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/12_Peak_Intensity_Extraction_for_Multiple_Elements.ipynb) 
  
- 
-
+ - **🤖Model Development**
+     - [PLSR Model Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/14_PLSR_Model.ipynb)
+     - [LASSO Model Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/13_LASSO_Model.ipynb)
+     - [Ridge Regression Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/16_Ridge_Model.ipynb)
+     - [Elasticnet Regressio Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/15_Elasticnet_Regression_Model.ipynb) 
 
 
