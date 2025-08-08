@@ -62,13 +62,23 @@
   
     - [Peak Intensity Extraction Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/12_Peak_Intensity_Extraction_for_Multiple_Elements.ipynb) 
  
- - **🤖Model Development**
+ - **🤖 Model Development**
      - [PLSR Model Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/14_PLSR_Model.ipynb)
      - [LASSO Model Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/13_LASSO_Model.ipynb)
      - [Ridge Regression Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/16_Ridge_Model.ipynb)
      - [Elasticnet Regressio Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/15_Elasticnet_Regression_Model.ipynb) 
 
        <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/82e27b8a-113b-41d2-81ab-8ffbd3e6946f" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2140596c-c0a7-455b-9bef-4dda8c84559f" />
+
+- **⚖️ Leave-One-Out Cross-Validation Model Evaluation**
+    - [LOOCV for PLSR](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/19_LOOCV_for_Validation_PLSR_Model.ipynb)
+    - [LOOCV for LASSO](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/17_LOOCV_LASSO.ipynb)
+    - [LOOCV for Elasticnet Regression](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/18_LOOCV_Elasticnet_Model.ipynb)
+ 
+- ** 🔍🧪 Application of the trained PLSR Model+SNV to End-of-life aluminium scrap (BMW)
+    - [Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/20_Predicting_Scrap_Alloys_PLSR_Spectral_Data.ipynb)
+      
+      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/84f49018-a396-44c6-b73f-cfebb2c88bf0" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9b2cd76c-76ba-46fa-a3cc-b5a18dd1261f" />
 
 
 
