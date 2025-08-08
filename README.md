@@ -68,4 +68,7 @@
      - [Ridge Regression Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/16_Ridge_Model.ipynb)
      - [Elasticnet Regressio Notebook](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/15_Elasticnet_Regression_Model.ipynb) 
 
+       <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/82e27b8a-113b-41d2-81ab-8ffbd3e6946f" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2140596c-c0a7-455b-9bef-4dda8c84559f" />
+
+
 
