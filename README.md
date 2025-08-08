@@ -7,10 +7,10 @@
 💻LIBS Spectral Pre-processoing and Modeling<br></br>
 🛰QGIS(basic Knowledge)
 
-<h2>👨‍💻 LIBS Development Projects</h2>
--  <b>Environment Setup</b>
-    - [https://github.com/Oury-Barry/Oury/blob/main/Environment%20Setup.ipynb <b><i>(Potentially NSFW)</b></i>
-
+## 👨‍💻 LIBS Development Project</h2>
+- **Project Overview:**
+    - [Project Walk-through](https://github.com/Oury-Barry/Developing-LIBS-)
+ 
 
 
 
