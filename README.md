@@ -14,12 +14,15 @@
 
 - **🔧 Environment Setup**
 
-- Python version: 3.13
+    - Python version: 3.13
     - Required packages: See [requirements.txt](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/01_Environment_Setup.ipynb)
     - Installation:
       ```bash
       pip install -r requirements.txt
 
+- **📁 Data Loading and Organisation:**
+  
+    - [Loads and Organises raw LIBS spectral data](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/02_Data_Loading.ipynb)
 
 
 
