@@ -24,7 +24,7 @@
     - [Loads and Organises raw LIBS spectral data](https://github.com/Oury-Barry/Developing-LIBS-/blob/main/02_Data_Loading.ipynb)
 
 - **💡 Raw Spectra Plotting:**
-    - [Visualises raw LIBS Spectral data](03_Raw_Spectra_Plotting .ipynb)
+    - [Visualises raw LIBS Spectral data](03_Raw_Spectra_Plotting.ipyn)
 
 
 
