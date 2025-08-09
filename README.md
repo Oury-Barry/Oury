@@ -87,9 +87,9 @@
 </a>
 
 <a href="https://public.tableau.com/app/profile/mody.oury.barry/vizzes">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" 
-       alt="Tableau Public" width="125"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau Public"/>
 </a>
+
 
 
 
