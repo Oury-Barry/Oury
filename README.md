@@ -83,7 +83,12 @@
 ## 🤝 Connect with Me  
 
 <a href="https://www.linkedin.com/in/barryoury/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>  
+</a>
+
+<a href="https://public.tableau.com/app/profile/mody.oury.barry/vizzes">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" 
+       alt="Tableau Public" width="125"/>
 </a>
 
 
